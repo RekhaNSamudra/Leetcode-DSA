@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -34,4 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/RekhaNSamudra/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
